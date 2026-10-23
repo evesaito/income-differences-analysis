@@ -13,7 +13,7 @@ This notebook originaly started as a group project for Senior Capstone course in
 - Healthcare pays about 11% less before adjustment and about 17% less after adjustment (about 14% excluding social assistance).
 - This Healthcare result is the most sensitive to how occupations are grouped (see the Appendix in the notebook).
 
-![Raw vs. adjusted industry wage gaps](figures/industry_gap.png)
+![Raw vs. adjusted industry wage gaps](industry_gap.png)
 
 ## Limitations
 - **Descriptive, not causal.** All results are adjusted associations. The sample covers four industries only, not the whole U.S. labor market.
